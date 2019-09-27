@@ -2,3 +2,6 @@
 파일 수정2
 Hello World
 merge confilict
+Good bye!
+Good Morning
+
